@@ -1,0 +1,41 @@
+Successfully Declared Header File
+Function Define Including  Parameter 
+
+(s) Variable Not DEclared YetInside Function
+Function Define Including  Parameter 
+###ans Variable DeclaredSuccessfully
+
+Value of the Variable ###ans= 0	Inside Function
+Function define Without  Parameter 
+
+Value of the Variable ###ans= 595385	Value From IF Block :
+Inside Function
+###a Variable DeclaredSuccessfully
+###i Variable Declared Successfully
+###y Variable Declared Successfully
+###j Variable Declared Successfully
+###bc Variable DeclaredSuccessfully
+
+ALART:Multiple Declaration Of Variable ###a 
+###t Variable DeclaredSuccessfully
+
+Value of the Variable ###a= 20	
+Value of the Variable ###i= 20	
+Value of the Variable ###j= 1	
+(gh) Variable Not DEclared Yet
+Value of the Variable ###y= 10	
+Value of the Variable ###i= 180	Value From ESLE IF Block 
+
+(p) Variable Not DEclared Yetelse 1
+Value of the Variable ###y= 20	
+Value of the Variable ###y= 40	 For Loop Start and End from 10 - 20 
+
+===>>a parameter used in Call The Valid Function
+
+Value of the Variable ###y= 209	
+Value of the Variable ###y= 209	Successfully While Loop Declared
+
+Value of the Variable ###a= 18	
+Value of the Variable ###j= 0	  Value From SWITCH CASE
+
+Value of the Variable ###a= 18	

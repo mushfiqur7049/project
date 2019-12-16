@@ -1,0 +1,81 @@
+#include<stdio.h>
+
+float_number kapca LP int_number s RP
+LB
+    s=5;
+RB
+
+int_number func LP int_number a, int_number b RP
+LB
+    int_number ans;
+    ans=0;
+RB
+
+int_number func LP RP
+LB
+    if(a greater_equal(>=) 100 and_operation(&&)  j less_than(<) 9 )
+    LB
+        ans=a additon(+) 9;
+    RB
+RB
+
+int main LP RP
+LB
+
+    int_number a,i,y,j;
+    int_number bc;
+    int_number a;
+    double_number t;
+    a=20;
+    i=a;
+    j=1;
+    gh=1;
+    if(i less_than(<) 5)
+    LB
+        if(j greater_than(>) 5)
+        LB
+            y=50 division(/) 5;
+        RB
+    RB
+    else_if(a greater_equal(>=) 5)
+    LB
+        i = a multiplication(*) 9;
+
+    RB
+    else
+    LB
+        p =  1;
+    RB
+
+
+    for_loop i 10 - 20 :
+LB
+    y=20;
+    if(a equal(=) 10)
+        LB
+            y=a additon(+) y;
+        RB
+    RB
+
+    kapca LP a RP;
+y=9 additon(+) a multiplication(*) 10;
+    while_loop LP 9 greater_equal(>=) 3 RP
+        LB
+            y=9 additon(+) a multiplication(*) 10;
+        RB
+
+switch :
+LB
+case (a greater_than(>) 0) 
+	LB
+ 		a = a subtraction(-) j multiplication(*) 2;
+		j=j decrement;
+	RB
+def 
+	LB
+	 a = a subtraction(-) j;
+	RB
+RB
+
+RB
+
